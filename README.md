@@ -6,15 +6,15 @@
 
 > Interactive Power BI dashboard analyzing pharmacy sales performance across European countries, regions, and product portfolios. Built for the Onyx Data DataDNA Challenge.
 
-[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Here-blue?style=for-the-badge)]([VOTRE_LIEN_ICI](https://app.powerbi.com/view?r=eyJrIjoiZjQ1NTQ0NmItOGE4Yi00MDUwLWJjMzgtMjY0YWJlOWUyMmE5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
-))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]https://www.linkedin.com/in/kadrimohamed/
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Here-blue?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiZjQ1NTQ0NmItOGE4Yi00MDUwLWJjMzgtMjY0YWJlOWUyMmE5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kadrimohamed/)
 
 ---
 
 ## 📊 Preview
 
-![Dashboard Preview](images/Capture d’écran (33).png)
+![Dashboard Preview](images/dashboard_page1.png)
 
 ---
 
