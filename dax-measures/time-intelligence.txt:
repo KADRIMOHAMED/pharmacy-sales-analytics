@@ -1,0 +1,16 @@
+// ==========================================
+// TIME INTELLIGENCE MEASURES
+// ==========================================
+
+Revenue YTD = 
+TOTALYTD([Total Revenue], T_DimDate[Date])
+
+Revenue PY = 
+CALCULATE([Total Revenue], DATEADD(T_DimDate[Date], -1, YEAR))
+
+Revenue YoY Change = 
+[Total Revenue] - [Revenue PY]
+
+Revenue YoY % = 
+DIVIDE([Revenue YoY Change], [Revenue PY], 0)
+
