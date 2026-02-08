@@ -49,7 +49,7 @@ High-level overview with key performance indicators and trends.
 - Donut Chart: Promoted vs Non-Promoted Sales
 - Ribbon Chart: Top 5 Regions Performance Evolution
 
-![Page 1](images/Capture d’écran (33).png)
+![Page 1](images/dashboard_page1.png)
 
 ---
 
@@ -65,8 +65,7 @@ Deep-dive analysis into product performance and geographic patterns.
 - Waterfall Chart: Regional Contribution
 - Urban/Suburban/Rural Comparison
 
-![Page 2 - Scatter Analysis](images/Capture d’écran (34).png)
-![Page 2 - Map Visual](images/Capture d’écran (35).png)
+![Page 2 - Map Visual](images/dashboard_page2.png)
 
 ---
 
@@ -84,7 +83,7 @@ Comprehensive data table with full drill-down capabilities.
 - Rich Conditional Formatting
 - Export to Excel Capability
 
-![Page 3](images/Capture d’écran (35).png)
+![Page 3](images/dashboard_page3.png)
 
 ---
 
@@ -106,7 +105,7 @@ Comprehensive data table with full drill-down capabilities.
   - T_DimProduct (category, brand, generic flag)
 - **Relationships:** 8 active relationships (Many-to-One)
 
-![Data Model](images/Capture d’écran (36).png)
+![Data Model](images/data_model.png)
 
 ### DAX Measures Categories
 
@@ -147,6 +146,7 @@ Comprehensive data table with full drill-down capabilities.
 - Product Rank by Revenue
 - Category Rank by Margin
 
+![Dax Measures](images/Dax_Measures.png)
 ---
 
 ## 💡 Key Insights Delivered
@@ -190,8 +190,7 @@ pharmacy-sales-analytics/
 │   ├── dashboard-page1.png            # Screenshots
 │   ├── dashboard-page2.png
 │   ├── dashboard-page3.png
-│   ├── scatter-analysis.png
-│   ├── map-visual.png
+│   ├── Dax Measures.png
 │   └── data-model.png
 ├── dax-measures/
 │   ├── base-metrics.txt               # DAX formulas
@@ -378,9 +377,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Your Name**
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/kadrimohamed/)
-- Twitter: [@YourHandle]([YOUR_TWITTER](https://x.com/Kadri__med))
-- Portfolio: [Your Website](https://github.com/KADRIMOHAMED)
+- LinkedIn: [KADRI MOHAMED](https://www.linkedin.com/in/kadrimohamed/)
+- Twitter: [@Kadri__med]([YOUR_TWITTER](https://x.com/Kadri__med))
+- Portfolio: [KM](https://github.com/KADRIMOHAMED)
 - Email: kadrimed95@gmail.com
 
 ---
