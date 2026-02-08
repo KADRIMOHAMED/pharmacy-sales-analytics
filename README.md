@@ -1,4 +1,4 @@
-# pharmacy-sales-analytics
+# Pharmacy-Sales-Analytics
 Interactive Power BI dashboard analyzing European pharmacy sales performance - DataDNA Challenge submission
 
 # 🏥 European Pharmacy Sales Analytics
