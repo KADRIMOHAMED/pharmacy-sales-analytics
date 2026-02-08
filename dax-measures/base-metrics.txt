@@ -1,0 +1,27 @@
+// ==========================================
+// BASE METRICS
+// ==========================================
+
+Total Revenue = 
+SUM(T_FactSales[RevenueEUR])
+
+Total Cost = 
+SUM(T_FactSales[CostEUR])
+
+Total Margin = 
+SUM(T_FactSales[MarginEUR])
+
+Total Units Sold = 
+SUM(T_FactSales[UnitsSold])
+
+Number of Transactions = 
+COUNTROWS(T_FactSales)
+
+Margin % = 
+DIVIDE([Total Margin], [Total Revenue], 0)
+
+Average Transaction Value = 
+DIVIDE([Total Revenue], [Number of Transactions], 0)
+
+Average Units per Transaction = 
+DIVIDE([Total Units Sold], [Number of Transactions], 0)
