@@ -1,3 +1,11 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/pharmacy-sales-analytics)
+![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/pharmacy-sales-analytics)
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/pharmacy-sales-analytics?style=social)
+![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/pharmacy-sales-analytics?style=social)
+```
+
+
+
 # 🏥 European Pharmacy Sales Analytics
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
